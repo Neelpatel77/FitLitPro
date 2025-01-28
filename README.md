@@ -1,17 +1,7 @@
 
-# FitLitPro-CapstoneProject
-Capstone Project - Neel Patel_Group16
-Group -16
-# INFO 6134- Capstone Project
+# FitLitPro
 
-**Group -16**
-
-Neel Patel - 1155048  
-Date: Sep 27, 2023
-
----
-
-## Capstone Project Documentation
+## Project Documentation
 
 ### Table of Contents
 
@@ -46,7 +36,7 @@ Date: Sep 27, 2023
 
 ---
 
-## Capstone Project Documentation
+##Project Documentation
 
 **FitLit Pro**
 
@@ -132,7 +122,3 @@ The fitness app addresses the need for a comprehensive and user-centric tool to 
 - **Project Hosting (Optional):** Firebase Hosting (for web deployment, if needed)
 - **Communication and Collaboration:** Slack, FOL Groups
 
-
-#### Next Steps and Milestones
-
-The next steps in the project involve the detailed implementation of each feature, thorough testing, and user feedback integration. Milestones will be set to ensure timely completion and a high-quality end product.
